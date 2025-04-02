@@ -1,1 +1,2 @@
 second file b.txt
+**New line for commit C7
